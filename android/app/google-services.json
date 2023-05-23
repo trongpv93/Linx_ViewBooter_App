@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "30738780096",
+    "project_id": "feed-me-1323",
+    "storage_bucket": "feed-me-1323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30738780096:android:cbc397818e97a6321cc225",
+        "android_client_info": {
+          "package_name": "com.linx.viewbooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30738780096-v7lreqtvg4eao73l2n4sgavb4kcv7d2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4YCB0RfMthMTbpHSEpoqIdrMyTAWfbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30738780096-17v4ci06jd24nmvtobqt057c0dam3c78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30738780096-0ldijjvdegi2mipuhqbvhe5qo2ukk81b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "linx.com.viewbooter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
